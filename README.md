@@ -1,3 +1,22 @@
+
+
+# DESAFIO 3/3 CONCLUÍDO COM SUCESSO! 💛
+Esse desafio tem por objetivo atender a um dos requisitos do Bootcamp DecolaTech 2024, que foi promovido pela parceria da AVANADE com a DIO.
+
+## Estudos utilizados nesse desafio 📝
+Esse desafio tinha o objetivo de aplicar os conhecimentos adquiridos do módulo de Teste Unitário, onde deveriam ser testadas as validações tanto de uma classe de listas quanto de uma classe de strings pertencentes a um progeto. Para isso foi utilizado o xUnit, que é um Framework de testes muito conhecimento no mercado.
+
+
+## 🚀 Tecnologias utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+
 # DIO - Trilha .NET - Testes Unitários com C#
 www.dio.me
 
